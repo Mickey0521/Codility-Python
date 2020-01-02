@@ -83,3 +83,8 @@ Lesson 16 Greedy algorithms (Coming Soon ...)
 Lesson 17 Dynamic programming (Coming Soon ...)
 - NumberSolitaire (respectable)
 - MinAbsSum (ambitious)
+
+My Python Notes (when i tried to solve the Codility problems)(feel free to download the .docx files)
+- [Python Notes Part1](https://github.com/Mickey0521/Codility-Python/blob/master/Python_Notes_Part1.docx)
+- [Python Notes Part2](https://github.com/Mickey0521/Codility-Python/blob/master/Python_Notes_part2.docx)
+- [Python Useful Functions](https://github.com/Mickey0521/Codility-Python/blob/master/Python_Useful_Functions.docx)

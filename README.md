@@ -54,9 +54,9 @@ Lesson 10 Prime and composite numbers [PDF](https://github.com/Mickey0521/Codili
 - [Peaks](https://github.com/Mickey0521/Codility-Python/blob/master/Peaks.py) (respectable)
 - Flags (respectable)
 
-Lesson 11 Sieve of Eratosthenes (Coming Soon ...)
-- CountSemiprimes
-- CountNonDivisible (respectable)
+Lesson 11 Sieve of Eratosthenes [PDF](https://github.com/Mickey0521/Codility-Python/blob/master/11-Sieve_cckao.pdf)
+- [CountSemiprimes](https://github.com/Mickey0521/Codility-Python/blob/master/CountSemiprimes_high_performance.py)
+- [CountNonDivisible (respectable)](https://github.com/Mickey0521/Codility-Python/blob/master/CountNonDivisible.py)
 
 Lesson 12 Euclidean algorithm (Coming Soon ...)
 - ChocolatesByNumbers

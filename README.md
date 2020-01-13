@@ -58,8 +58,8 @@ Lesson 11 Sieve of Eratosthenes [PDF](https://github.com/Mickey0521/Codility-Pyt
 - [CountSemiprimes](https://github.com/Mickey0521/Codility-Python/blob/master/CountSemiprimes_high_performance.py)
 - [CountNonDivisible (respectable)](https://github.com/Mickey0521/Codility-Python/blob/master/CountNonDivisible.py)
 
-Lesson 12 Euclidean algorithm (Coming Soon ...)
-- ChocolatesByNumbers
+Lesson 12 Euclidean algorithm [PDF](https://github.com/Mickey0521/Codility-Python/blob/master/12-Gcd_cckao.pdf)
+- [ChocolatesByNumbers](https://github.com/Mickey0521/Codility-Python/blob/master/ChocolatesByNumbers_high_performance.py)
 - CommonPrimeDivisors (respectable)
 
 Lesson 13 Fibonacci numbers (Coming Soon ...)

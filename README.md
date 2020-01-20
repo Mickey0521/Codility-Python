@@ -62,9 +62,9 @@ Lesson 12 Euclidean algorithm [PDF](https://github.com/Mickey0521/Codility-Pytho
 - [ChocolatesByNumbers](https://github.com/Mickey0521/Codility-Python/blob/master/ChocolatesByNumbers_high_performance.py)
 - CommonPrimeDivisors (respectable)
 
-Lesson 13 Fibonacci numbers (Coming Soon ...)
-- Ladder (respectable)
-- FibFrog (respectable)
+Lesson 13 Fibonacci numbers [PDF](https://github.com/Mickey0521/Codility-Python/blob/master/13-Fibonacci_cckao.pdf)
+- [Ladder (respectable)](https://github.com/Mickey0521/Codility-Python/blob/master/Ladder_high_performance.py)
+- [FibFrog (respectable)](https://github.com/Mickey0521/Codility-Python/blob/master/FibFrog_performance_50.py)
 
 Lesson 14 Binary search algorithm (Coming Soon ...)
 - MinMaxDivision (respectable)

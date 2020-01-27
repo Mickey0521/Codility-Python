@@ -66,8 +66,8 @@ Lesson 13 Fibonacci numbers [PDF](https://github.com/Mickey0521/Codility-Python/
 - [Ladder (respectable)](https://github.com/Mickey0521/Codility-Python/blob/master/Ladder_high_performance.py)
 - [FibFrog (respectable)](https://github.com/Mickey0521/Codility-Python/blob/master/FibFrog_performance_50.py)
 
-Lesson 14 Binary search algorithm (Coming Soon ...)
-- MinMaxDivision (respectable)
+Lesson 14 Binary search algorithm [PDF](https://github.com/Mickey0521/Codility-Python/blob/master/14-BinarySearch_cckao.pdf)
+- [MinMaxDivision (respectable)](https://github.com/Mickey0521/Codility-Python/blob/master/MinMaxDivision.py)
 - NailingPlanks (respectable)
 
 Lesson 15 Caterpillar method (Coming Soon ...)

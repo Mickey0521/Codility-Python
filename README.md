@@ -70,10 +70,10 @@ Lesson 14 Binary search algorithm [PDF](https://github.com/Mickey0521/Codility-P
 - [MinMaxDivision (respectable)](https://github.com/Mickey0521/Codility-Python/blob/master/MinMaxDivision.py)
 - NailingPlanks (respectable)
 
-Lesson 15 Caterpillar method (Coming Soon ...)
-- AbsDistinct
-- CountDistinctSlices
-- CountTriangles
+Lesson 15 Caterpillar method [PDF](https://github.com/Mickey0521/Codility-Python/blob/master/15-CaterpillarMethod_cckao.pdf)
+- [AbsDistinct](https://github.com/Mickey0521/Codility-Python/blob/master/AbsDistinct.py)
+- [CountDistinctSlices](https://github.com/Mickey0521/Codility-Python/blob/master/CountDistinctSlices_high_performance.py)
+- [CountTriangles](https://github.com/Mickey0521/Codility-Python/blob/master/CountTriangles.py)
 - MinAbsSumOfTwo (respectable)
 
 Lesson 16 Greedy algorithms (Coming Soon ...)

@@ -76,9 +76,9 @@ Lesson 15 Caterpillar method [PDF](https://github.com/Mickey0521/Codility-Python
 - [CountTriangles](https://github.com/Mickey0521/Codility-Python/blob/master/CountTriangles.py)
 - MinAbsSumOfTwo (respectable)
 
-Lesson 16 Greedy algorithms (Coming Soon ...)
-- MaxNonoverlappingSegments
-- TieRopes
+Lesson 16 Greedy algorithms [PDF](https://github.com/Mickey0521/Codility-Python/blob/master/16-GreedyAlgorithms_cckao.pdf)
+- [MaxNonoverlappingSegments](https://github.com/Mickey0521/Codility-Python/blob/master/MaxNonoverlappingSegments.py)
+- [TieRopes](https://github.com/Mickey0521/Codility-Python/blob/master/TieRopes.py)
 
 Lesson 17 Dynamic programming (Coming Soon ...)
 - NumberSolitaire (respectable)

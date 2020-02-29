@@ -80,8 +80,8 @@ Lesson 16 Greedy algorithms [PDF](https://github.com/Mickey0521/Codility-Python/
 - [MaxNonoverlappingSegments](https://github.com/Mickey0521/Codility-Python/blob/master/MaxNonoverlappingSegments.py)
 - [TieRopes](https://github.com/Mickey0521/Codility-Python/blob/master/TieRopes.py)
 
-Lesson 17 Dynamic programming (Coming Soon ...)
-- NumberSolitaire (respectable)
+Lesson 17 Dynamic programming [PDF](https://github.com/Mickey0521/Codility-Python/blob/master/17-DynamicProgramming_cckao.pdf)
+- [NumberSolitaire (respectable)](https://github.com/Mickey0521/Codility-Python/blob/master/NumberSolitaire.py)
 - MinAbsSum (ambitious)
 
 My Python Notes (when i tried to solve the Codility problems) (feel free to download the .docx files)
